@@ -40,7 +40,7 @@
     "workbench.colorCustomizations": {
         "[Material Theme Ocean High Contrast]": {}
     },
-    "workbench.colorTheme": "Tomorrow Night Blue",
+    "materialTheme.accent": "Pink",
     "git.openRepositoryInParentFolders": "never",
     "sqltools.connections": [
         {
@@ -58,4 +58,27 @@
             "askForPassword": true
         }
     ],
+    "workbench.colorTheme": "ƒ - Oceanic",
+    // "workbench.colorTheme": "ƒ - Oceanic",
+    // "workbench.colorTheme": "Gamberetti",
+    // "workbench.colorTheme": "One Monokai (Dark)",
+    // "workbench.colorTheme": "GitHub Dark (Web Based)",
+    // "workbench.colorTheme": "ReUI II Dark",
+    // "workbench.colorTheme": "Material Theme Palenight High Contrast",
+    // "workbench.colorTheme": "Matrix",
+    // "workbench.colorTheme": "Tokyo Night AltSynt",
+    // "workbench.colorTheme": "ƒ - Darcula",
+    // "workbench.colorTheme": "Radical",
+    // "workbench.colorTheme": "Hacker Colors",
+    // "workbench.colorTheme": "Neon Programming theme dark blue",
+    // "workbench.colorTheme": "Winter is Coming (Dark Blue)",
+    // "workbench.colorTheme": "Neon Pink Dark",
+    // "workbench.colorTheme": "Dark Pink Pro",
+    // "workbench.colorTheme": "Cute",
+    // "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    // "workbench.colorTheme": "Red",
+    // "workbench.colorTheme": "Kali Terminal Dark",
+    // "workbench.colorTheme": "Solarized Light",
+    // "workbench.colorTheme": "Solarized Dark",
+    // "workbench.colorTheme": "Tomorrow Night Blue",
 }
