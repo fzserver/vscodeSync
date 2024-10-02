@@ -1,0 +1,61 @@
+{
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "editor.fontSize": 16,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            0
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "redhat.telemetry.enabled": true,
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "tabnine.experimentalAutoImports": true,
+    "yaml.schemaStore.enable": false,
+    "symbols.hidesExplorerArrows": false,
+    "remote.SSH.remotePlatform": {
+        "FZLocalServer": "linux",
+        "coder-vscode.ide.infodivelabs.com--parth--Frazile": "linux",
+        "coder-vscode.fzcoder.frazile.app--fzserver--Coding": "linux",
+        "coder-vscode.fzcoder.frazile.app--fzserver--Coding--main": "linux",
+        "coder-vscode.fzcoder.frazile.app--sangeeta674--Coding": "linux",
+        "coder-vscode.fzcoder.frazile.app--sangeeta674--coding": "linux",
+        "coder-vscode.fzcoder.frazile.app--aryaabhii--Webdev": "linux",
+        "coder-vscode.fzcoder.frazile.app--Frazile--FzCoding": "linux"
+    },
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "remote.SSH.connectTimeout": 1800,
+    "workbench.colorCustomizations": {
+        "[Material Theme Ocean High Contrast]": {}
+    },
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "git.openRepositoryInParentFolders": "never",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "localhost",
+            "database": "facemash",
+            "username": "root",
+            "askForPassword": true
+        }
+    ],
+}

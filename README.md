@@ -1,1 +1,3 @@
 # vscodeSync
+
+Vscode settings updated
